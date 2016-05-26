@@ -1,0 +1,24 @@
+#editor {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    /*height: 800px;*/
+}
+
+#pdf-container {
+    /*position: relative;*/
+    padding - right: 0 px;
+    padding - left: 0 px;
+    padding - bottom: 0 px;
+    padding - top: 0 px;
+    /*height: 100%;*/
+    /*height: 626px;*/
+}
+
+#pdf-viewport {
+    position: relative;
+    width: 100 % ;
+    height: 100 % ;
+}
